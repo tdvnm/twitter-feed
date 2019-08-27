@@ -8,7 +8,7 @@
 }
 
 .tweet:hover{
-  transform: scale(1.02) translateY(-10px);
+  transform: scale(1.009) translateY(-10px);
   box-shadow: 0 15px 15px -5px #b2d3dd;
 }
 
